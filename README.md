@@ -17,5 +17,3 @@ Olá, Dev 💬
 ![Suas estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=maripenalv&show_icons=true&theme=slateblue) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=maripenalv&layout=compact&theme=slateblue)
 
 
-![snake animation](https://github.com/<maripenalv>/<maripenalv>/blob/output/github-contribution-grid-snake2.svg)
-
