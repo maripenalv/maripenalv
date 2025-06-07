@@ -1,9 +1,8 @@
 Olá, Dev 💬
 ---
-- 📋 Buscando oportunidade de estágio  
-- 🎓 Estudante do 4 período de Sistemas de Informação
-- 💻  Principais Stacks: Python - JAVA - HTML - CSS
-- 📊 Estudando ciência de dados e FrontEnd
+- 🎓 Estudante do 5 período de Sistemas de Informação
+- 💻  Principal Stack: Python 
+- 📊 Estudando ciência de dados 
 - 🌱 Sempre em busca de desenvolver minhas habilidades 
 - 📩 Gostaria de me conhecer melhor? Conecte-se comigo: 
 
