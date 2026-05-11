@@ -1,7 +1,7 @@
 Olá, Dev 💬
 ---
-- 🎓 Estudante do 5 período de Sistemas de Informação
-- 💻  Principal Stack: Python 
+- 🎓 Estudante do 7 período de Sistemas de Informação
+- 💻  Principal Stack: SQL 
 - 📊 Estudando ciência de dados 
 - 🌱 Sempre em busca de desenvolver minhas habilidades 
 - 📩 Gostaria de me conhecer melhor? Conecte-se comigo: 
