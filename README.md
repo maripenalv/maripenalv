@@ -1,8 +1,6 @@
 Olá, Dev 💬
 ---
-- 🎓 Estudante do 7 período de Sistemas de Informação
-- 💻  Principal Stack: SQL 
-- 📊 Estudando ciência de dados 
+- 🎓 Estudante do 8 período de Sistemas de Informação 
 - 🌱 Sempre em busca de desenvolver minhas habilidades 
 - 📩 Gostaria de me conhecer melhor? Conecte-se comigo: 
 
